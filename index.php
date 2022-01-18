@@ -301,7 +301,7 @@ function myFunction() {
 <hr>
 <br>
 <p class="footer_para">
-  Created by <b style="color: lightblue;">Swathi Meghana </b>&nbsp;and&nbsp;<b style="color: lightblue;">Suloni Praveen</b><b style="color: #03b6fc;">&reg;</b><br><br>
+  Created by <b style="color: lightblue;">Benaka H N</b><b style="color: #03b6fc;">&reg;</b><br><br>
   <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
 
