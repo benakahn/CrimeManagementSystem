@@ -243,11 +243,11 @@ a.right{
 </div>
 
 <div class="mySlides fade">  
-  <img src="images/pic6.jpg" style="width:100%">
+  <img src="images/pic5.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <img src="images/pic8.jpeg" style="width:100%">
+  <img src="images/pic5.jpg" style="width:100%">
 </div>
 
 </div>
@@ -302,10 +302,9 @@ function myFunction() {
 <br>
 <p class="footer_para">
   Created by <b style="color: lightblue;">Benaka H N</b><b style="color: #03b6fc;">&reg;</b><br><br>
-  <a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-twitter"></a>
-
-<a href="#" class="fa fa-linkedin"></a>
+  <a href="https://www.facebook.com/benaka.nagesh.05/" class="fa fa-facebook"></a>
+<a href="https://twitter.com/Benakanagesh05" class="fa fa-twitter"></a>
+<a href="https://www.linkedin.com/in/benaka-h-n-46b5b61a4/" class="fa fa-linkedin"></a>
 
 </p>
 
